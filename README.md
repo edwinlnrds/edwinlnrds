@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hewwo there 👋
 
+
+#### I'm a Junior Software Engineer🤓 at [Ukirama](https://ukirama.com/)
 <!--
 **edwinlnrds/edwinlnrds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
